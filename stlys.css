@@ -1,0 +1,27 @@
+body {
+    background-color: cyan;
+}
+
+ul {
+    color: magenta;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: violet;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: fuchsia;
+    border-width: 3px;
+    width: 1009px;
+}
